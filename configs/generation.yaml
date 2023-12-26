@@ -1,0 +1,10 @@
+prompts: ["snoopy", "pikachu", "mickey"]
+negative_prompt: "bad anatomy,watermark,extra digit,signature,worst quality,jpeg artifacts,normal quality,low quality,long neck,lowres,error,blurry,missing fingers,fewer digits,missing arms,text,cropped,Humpbacked,bad hands,username"
+unconditional_prompt: ""                    # e.g. hires, masterpieces, etc.
+width: 512
+height: 512
+num_inference_steps: 30
+guidance_scale: 7.5
+seed: 0
+generate_num: 5
+save_path: "generated_images/{}/{}.png"     # should be a template, will be formatted with prompt and generation number

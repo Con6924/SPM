@@ -1,0 +1,12 @@
+
+- target: "snoopy"
+  positive: "snoopy"
+  unconditional: ""
+  neutral: ""
+  action: "erase_with_la"
+  guidance_scale: "1.0"
+  resolution: 512
+  batch_size: 1
+  dynamic_resolution: true
+  la_strength: 1000
+  sampling_batch_size: 4
