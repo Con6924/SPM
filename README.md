@@ -4,7 +4,8 @@
 
 ![sample](./assets/sample.png)
 
-<p style="text-align: center; color: gray">The generation samples showing 'Cat' SPM, which is trained on SD v1.4 and applied on <a href="https://huggingface.co/SG161222/Realistic\_Vision\_V5.1\_noVAE">RealisticVision</a>. <br> The upper row shows the original generation and the lower row shows the SPM-equipped ones.</p>
+_(The generation samples demonstrating 'Cat' SPM, which is trained on SD v1.4 and applied on [RealisticVision](https://huggingface.co/SG161222/Realistic\_Vision\_V5.1\_noVAE).
+The upper row shows the original generation and the lower row shows the SPM-equipped ones.)_
 
 We propose **Concept <u>S</u>emi-<u>P</u>ermeable <u>M</u>embrane (SPM)**, as a solution to erase or edit concepts for diffusion models (DMs).
 
