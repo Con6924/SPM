@@ -17,8 +17,6 @@ ACTION_TYPES = Literal[
     "erase_with_la",
 ]
 
-
-# XL は二種類必要なので
 class PromptEmbedsXL:
     text_embeds: torch.FloatTensor
     pooled_embeds: torch.FloatTensor
@@ -26,12 +24,10 @@ class PromptEmbedsXL:
     def __init__(self, embeds) -> None:
         self.text_embeds, self.pooled_embeds = embeds
 
-
-# SDv1.x, SDv2.x は FloatTensor、XL は PromptEmbedsXL
 PROMPT_EMBEDDING = Union[torch.FloatTensor, PromptEmbedsXL]
 
 
-class PromptEmbedsCache:  # 使いまわしたいので
+class PromptEmbedsCache:
     prompts: dict[str, PROMPT_EMBEDDING] = {}
 
     def __setitem__(self, __name: str, __value: PROMPT_EMBEDDING) -> None:
@@ -44,7 +40,7 @@ class PromptEmbedsCache:  # 使いまわしたいので
             return None
 
 
-class PromptSettings(BaseModel):  # yaml のやつ
+class PromptSettings(BaseModel):  # yaml
     target: str
     positive: str = None  # if None, target will be used
     unconditional: str = ""  # default is ""

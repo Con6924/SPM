@@ -186,11 +186,10 @@ def train(
             ).to(DEVICE_CUDA, dtype=weight_dtype)
 
             with network:
-                # ちょっとデノイズされれたものが返る
                 denoised_latents = train_util.diffusion_xl(
                     unet,
                     noise_scheduler,
-                    latents,  # 単純なノイズのlatentsを渡す
+                    latents,
                     text_embeddings=train_util.concat_embeddings(
                         prompt_pair.unconditional.text_embeds,
                         prompt_pair.target.text_embeds,
