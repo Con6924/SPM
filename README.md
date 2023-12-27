@@ -85,7 +85,7 @@ Trained SPM for SD v1.x:
 
 | Task Type         | SPM                                                          |
 | ----------------- | ------------------------------------------------------------ |
-| General Concepts  | Snoopy, Mickey, Spongebob, Pikachu, Donald Duck, Cat, <br />Wonder Woman (->Gal Gadot), Luke Skywalker (->Darth Vader), Joker (->Heath Ledger), Joker (->Batman) |
+| General Concepts  | [Snoopy](https://drive.google.com/file/d/1_dWwFd3OB4ZLjfayPUoaVP3Fi-OGJ3KW/view?usp=drive_link), Mickey, Spongebob, Pikachu, Donald Duck, Cat, <br />Wonder Woman (->Gal Gadot), Luke Skywalker (->Darth Vader), Joker (->Heath Ledger), Joker (->Batman) |
 | Artistic Styles   | Van Gogh, Picasso, Rembrant, Comic                           |
 | Explicit Contents | Nudity                                                       |
 
