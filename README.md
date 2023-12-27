@@ -1,6 +1,6 @@
 # Concept Semi-Permeable Membrane
 
-### [Project Page](https://lyumengyao.github.io/projects/spm) | [arXiv](https://arxiv.org/abs/2312.16145)
+### ✏️ [Project Page](https://lyumengyao.github.io/projects/spm) | 📄 [arXiv](https://arxiv.org/abs/2312.16145) | 🤗 Hugging Face
 
 ![sample](./assets/sample.png)
 
@@ -81,7 +81,15 @@ accelerate launch --num_processes ${num_gpus} evaluate_task.py \
 
 ## Model Zoo
 
-We will release our trained SPMs for SD v1.x, SD v2.x and SDXL soon.
+Trained SPM for SD v1.x:
+
+| Task Type         | SPM                                                          |
+| ----------------- | ------------------------------------------------------------ |
+| General Concepts  | Snoopy, Mickey, Spongebob, Pikachu, Donald Duck, Cat, <br />Wonder Woman (->Gal Gadot), Luke Skywalker (->Darth Vader), Joker (->Heath Ledger), Joker (->Batman) |
+| Artistic Styles   | Van Gogh, Picasso, Rembrant, Comic                           |
+| Explicit Contents | Nudity                                                       |
+
+SPM for SD v2.x and SDXL will be released in the future.
 
 ## References
 
