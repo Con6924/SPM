@@ -38,7 +38,7 @@ Additionally, you can setup [**SD-WebUI**](https://github.com/AUTOMATIC1111/stab
 
 ### 1. Training SPMs
 
-In the [**train.ipynb**](https://github.com/Con6924/SPM/blob/main/train.ipynb) notebook we provide tutorials for setting up configs and training. Please refer to the notebook for further details.
+In the [**demo.ipynb**](https://github.com/Con6924/SPM/blob/main/demo.ipynb) notebook we provide tutorials for setting up configs and training. Please refer to the notebook for further details.
 
 ### 2. Generate with SPMs
 
@@ -57,7 +57,7 @@ python infer_spm.py \
 
 #### Generate in the notebook demo
 
-The [**train.ipynb**](https://github.com/Con6924/SPM/blob/main/train.ipynb) notebook also offers codes for generate samples with single or multi SPMs. 
+The [**demo.ipynb**](https://github.com/Con6924/SPM/blob/main/demo.ipynb) notebook also offers codes for generate samples with single or multi SPMs. 
 
 *Notice: In this way, the Facilitate Transfer mechanism of SPM will NOT be activated. SPMs will have a relatively higher impact on non-targeted concepts.*
 
