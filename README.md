@@ -1,6 +1,6 @@
 # Concept Semi-Permeable Membrane
 
-### [Project Page](https://lyumengyao.github.io/projects/spm) | arXiv
+### [Project Page](https://lyumengyao.github.io/projects/spm) | [arXiv](https://arxiv.org/abs/2312.16145)
 
 ![sample](./assets/sample.png)
 
@@ -102,6 +102,13 @@ In addition, these repos inspires the implementation of ours:
 If you find this repo useful, you can cite our work as follows:
 
 ```tex
-{bibtex}
+@misc{lyu2023onedimensional,
+      title={One-dimensional Adapter to Rule Them All: Concepts, Diffusion Models and Erasing Applications}, 
+      author={Mengyao Lyu and Yuhong Yang and Haiwen Hong and Hui Chen and Xuan Jin and Yuan He and Hui Xue and Jungong Han and Guiguang Ding},
+      year={2023},
+      eprint={2312.16145},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 ```
 
