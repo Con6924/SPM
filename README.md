@@ -85,9 +85,9 @@ Trained SPM for SD v1.x:
 
 | Task Type         | SPM                                                          |
 | ----------------- | ------------------------------------------------------------ |
-| General Concepts  | [Snoopy](https://drive.google.com/file/d/1_dWwFd3OB4ZLjfayPUoaVP3Fi-OGJ3KW/view?usp=drive_link), Mickey, Spongebob, Pikachu, Donald Duck, Cat, <br />Wonder Woman (->Gal Gadot), Luke Skywalker (->Darth Vader), Joker (->Heath Ledger), Joker (->Batman) |
-| Artistic Styles   | Van Gogh, Picasso, Rembrant, Comic                           |
-| Explicit Contents | Nudity                                                       |
+| General Concepts  | [Snoopy](https://drive.google.com/file/d/1_dWwFd3OB4ZLjfayPUoaVP3Fi-OGJ3KW/view?usp=drive_link), [Mickey](https://drive.google.com/file/d/1PPAP7kEU7fCc94ZVqln0epRgPup0-xM4/view?usp=drive_link), [Spongebob](https://drive.google.com/file/d/1h13BLLQUThTABBl3gH2DnMYmWJlvPKxV/view?usp=drive_link), [Pikachu](https://drive.google.com/file/d/1Dqon-QvOEBReLPj1cu9vth_F7xAS0quq/view?usp=drive_link), [Donald Duck](https://drive.google.com/file/d/1AMkxh7EUdnM1LA4xVwVNNGymbjGQNlOB/view?usp=drive_link), [Cat](https://drive.google.com/file/d/1mnQFX7HUzx7wIaeNv8ErFOzrWXN2ximA/view?usp=drive_link), <br />[Wonder Woman (->Gal Gadot)](https://drive.google.com/file/d/1riAVU11lNeI0aA8CSFsUj3xycRRChMKC/view?usp=drive_link), [Luke Skywalker (->Darth Vader)](https://drive.google.com/file/d/1SfF-557PfWGqZz2Vi9Fmy21Ygj2rTxaF/view?usp=drive_link), [Joker (->Heath Ledger)](https://drive.google.com/file/d/1y8UFxy4TT8M-fXfvDyFieSdfIz4sS_ON/view?usp=drive_link), [Joker (->Batman)](https://drive.google.com/file/d/1zoHUWriLewCiF7mJiwKAoL6rk90ZSPKL/view?usp=drive_link) |
+| Artistic Styles   | [Van Gogh](https://drive.google.com/file/d/1qSvoVDOHZfmUo-NyyKUnIEbcMsdzo_w1/view?usp=drive_link), [Picasso](https://drive.google.com/file/d/1SkEBAdJ1W0Mfd-9JAhl06x2lS4_ekrbz/view?usp=drive_link), [Rembrant](https://drive.google.com/file/d/1lJXdbvlfsKpGhPPc-jMrx7Ukb38Cwk1Q/view?usp=drive_link), [Comic](https://drive.google.com/file/d/1Wqtii81ZAKly8JpHGtGcrI6oiOeRdX_7/view?usp=drive_link)                           |
+| Explicit Contents | [Nudity](https://drive.google.com/file/d/1yJ1Eq9Z326h4zQH5-dmmH7oaOPxjIzvN/view?usp=drive_link)                                                       |
 
 SPM for SD v2.x and SDXL will be released in the future.
 
