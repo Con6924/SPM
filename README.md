@@ -95,7 +95,7 @@ SPM for SD v2.x and SDXL will be released in the future.
 
 This repo is the code for the paper *One-dimentional Adapter to Rule Them All: Concepts, Diffusion Models and Erasing Applications*.
 
-Thanks for the creative ideas for the pioneer researches:
+Thanks for the creative ideas of the pioneer researches:
 
 - https://github.com/rohitgandikota/erasing: **Erasing Concepts from Diffusion Models**
 - https://github.com/nupurkmr9/concept-ablation: **Ablating Concepts in Text-to-Image Diffusion Models**
